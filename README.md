@@ -24,11 +24,9 @@ This project covers:
 - **IDE:** Spyder 5.5.1 (Anaconda)  
 - **Python Version:** 3.12.7 (64-bit)  
 - **Libraries Used:**  
-  - `pandas`  
-  - `matplotlib`  
-  - `random`  
-  - `csv`  
-  - `statistics`
+  - `Pandas`  
+  - `Matplotlib`  
+  - `NumPy`  
 
 - **Operating System:** Windows 11
 
