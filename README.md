@@ -4,6 +4,8 @@
 
 This project simulates, cleans, analyzes, and visualizes examination data for a tertiary institution. Using Python, it generates **two realistic datasets** and applies statistical analysis to uncover patterns in student performance, study habits, and demographics.
 
+[Code Developement Process](docs/code-developement-process.md) 
+
 ---
 
 ## 📦 Project Overview
@@ -16,6 +18,8 @@ This project covers:
 - Visualization with Matplotlib  
 - Insightful interpretation of each dataset’s patterns  
 - Final conclusions drawn from comparison of both datasets
+
+for a more detailed overview please view: [Project Overview](docs/project-overview.md) 
 
 ---
 
@@ -72,6 +76,8 @@ pip install pandas matplotlib
 * Older students generally study more, suggesting experience or discipline.
 
 * Dataset comparison helps verify consistency of trends across different student samples.
+
+detailed anaylsis: [Data Analysis](data-analysis.md) 
 
 ## 👤 Author
 Daniel Mulligan
