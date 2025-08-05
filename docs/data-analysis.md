@@ -8,8 +8,14 @@ This section presents the findings from two generated datasets and the conclusio
 
 ![Dataset 1](/images/freq-age-1.png)  
 
+![Dataset 1](/images/student-age-groups.png) 
+
 ### Dataset 1 – Conclusion:
 Most students fall within the **25–35 age range**, while significantly fewer are between **18–25**. This indicates that many students begin their tertiary education a few years after finishing high school. Additionally, the number of students over **45** surpasses that of the youngest group, suggesting a declining interest in tertiary education among recent school-leavers.
+
+![Dataset 2](/images/freq-age-2.png) 
+
+![Dataset 2](/images/student-age-groups-2.png) 
 
 ### Dataset 2 – Conclusion:
 The second dataset supports the same conclusion: very few students are in the 18–25 bracket. This trend might reflect either a waning interest in higher education among younger individuals or external factors such as:
@@ -19,6 +25,10 @@ The second dataset supports the same conclusion: very few students are in the 18
 ---
 
 ## ⏱️ Average Hours Studied (Frequency Tables)
+
+![Dataset 1](/images/freq-hours-1.png) 
+
+![Dataset 2](/images/freq-hours-2.png) 
 
 ### Dataset 1 & 2 – Conclusion:
 Both datasets show that **2–3 hours** is the most common study duration before an exam. This may suggest that this duration is perceived as effective — though this will be examined further in the mark correlation.
@@ -30,6 +40,10 @@ Interestingly, **4–5 hours** had the lowest number of students, potentially in
 ---
 
 ## 📝 Student Marks (Frequency Tables)
+
+![Dataset 1](/images/freq-marks-1.png) 
+
+![Dataset 2](/images/freq-marks-2.png) 
 
 ### Dataset 1 & 2 – Conclusion:
 In both datasets, **over half of the students scored below 50%**:
@@ -44,6 +58,10 @@ This suggests potential issues with:
 
 ## 📈 Correlation: Study Hours vs. Exam Marks (Line Graph)
 
+![Dataset 1](/images/mark-study-time.png) 
+
+![Dataset 2](/images/mark-study-time-2.png) 
+
 ### Dataset 1 & 2 – Conclusion:
 - **4–5 hours of study** resulted in the highest marks.
 - In **Dataset 1**, students studying **2–3 hours** outperformed those who studied 1–2 hours — but only slightly.
@@ -57,6 +75,10 @@ These results may indicate:
 
 ## 📉 Correlation: Exam Duration vs. Exam Marks (Scatter Plot)
 
+![Dataset 1](/images/mark-exam-time.png) 
+
+![Dataset 2](/images/mark-exam-time-2.png) 
+
 ### Dataset 1 & 2 – Conclusion:
 - No strong correlation was found between **time spent writing** and **marks achieved**.
 - However, students who completed the exam in **under 1 hour** scored significantly better than those who took **160–180 minutes**.
@@ -66,6 +88,10 @@ This suggests a **slight negative correlation** between time taken and performan
 ---
 
 ## 📚 Correlation: Study Time vs. Student Age (Scatter Plot)
+
+![Dataset 1](/images/studytime-studentage.png) 
+
+![Dataset 2](/images/studytime-studentage-2.png) 
 
 ### Dataset 1 & 2 – Conclusion:
 There’s a clear trend showing that **older students study more**:
