@@ -6,7 +6,7 @@ This section presents the findings from two generated datasets and the conclusio
 
 ## 🎓 Student Ages (Frequency Tables & Bar Charts)
 
-[Dataset 1](images/freq-age-1.png)  
+[Dataset 1](freq-age-1.png)  
 
 ### Dataset 1 – Conclusion:
 Most students fall within the **25–35 age range**, while significantly fewer are between **18–25**. This indicates that many students begin their tertiary education a few years after finishing high school. Additionally, the number of students over **45** surpasses that of the youngest group, suggesting a declining interest in tertiary education among recent school-leavers.
