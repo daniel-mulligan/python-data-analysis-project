@@ -77,7 +77,7 @@ pip install pandas matplotlib
 
 * Dataset comparison helps verify consistency of trends across different student samples.
 
-detailed anaylsis: [Data Analysis](data-analysis.md) 
+detailed anaylsis: [Data Analysis](docs/data-analysis.md) 
 
 ## 👤 Author
 Daniel Mulligan
