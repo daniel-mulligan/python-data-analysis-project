@@ -47,11 +47,13 @@ Each visualization was produced for **both datasets**, allowing cross-comparison
 
 ## 🚀 How to Run
 
-1. Clone the repository.
-2. Run `generate_data.py` to produce exam datasets.
-3. Run `clean_data.py` to validate and improve realism.
-4. Execute `analysis.py` to generate frequency tables and groupings.
-5. Run `visualize.py` to generate the charts for both datasets.
+1. 	open csv_gen.py and run it to generate the CSV file.
+
+2. 	Open csv_clean.py and run it to clean the data in the previous csv file.
+	(NB: make sure that the csv is in the same file as this .py file)
+
+3. 	Open ft_graphs and run it to produce the frequency tables, graphs and charts
+	(viewable on Spyder plot view)
 
 Install dependencies if needed:
 
